@@ -1,9 +1,9 @@
 ---
 title: "Bayesian Filters State Estimation on Directed Graphs: On The Toronto
   Subway System"
-subtitle: "Final project for CSC412/2506: Probabilistic Learning & Reasoning"
+subtitle: ""
 date: 2021-07-03T05:20:01.822Z
-summary: yoho
+summary: "Final project for CSC412/2506: Probabilistic Learning & Reasoning"
 draft: false
 featured: false
 authors:
@@ -15,9 +15,10 @@ links:
     icon: github
     url: https://github.com/rusbridger/Reasonable-Subway-Surfing
     name: Code
+  - name: PDF
+    url: https://www.cs.toronto.edu/~rupert/bayesian-filters.pdf
 image:
   filename: null
   focal_point: Smart
   preview_only: false
 ---
-hello
