@@ -11,12 +11,14 @@ authors:
   - Roland Gao
 external_link: https://github.com/rusbridger/Reasonable-Subway-Surfing
 links:
+  - name: PDF
+    url: https://www.cs.toronto.edu/~rupert/bayesian-filters.pdf
+    icon_pack: fas
+    icon: file
   - icon_pack: fab
     icon: github
     url: https://github.com/rusbridger/Reasonable-Subway-Surfing
     name: Code
-  - name: PDF
-    url: https://www.cs.toronto.edu/~rupert/bayesian-filters.pdf
 image:
   filename: null
   focal_point: Smart
