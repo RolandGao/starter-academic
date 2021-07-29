@@ -1,5 +1,7 @@
 ---
 title: Subsets of ImageNet
+tags:
+- Blog
 date: 2021-07-29T18:18:03.314Z
 draft: false
 featured: false
