@@ -2,6 +2,8 @@
 title: "Bayesian Filters State Estimation on Directed Graphs: On The Toronto
   Subway System"
 subtitle: ""
+tags:
+- Deep Learning
 date: 2021-07-03T05:20:01.822Z
 summary: "Final project for CSC412/2506: Probabilistic Learning & Reasoning"
 draft: false
