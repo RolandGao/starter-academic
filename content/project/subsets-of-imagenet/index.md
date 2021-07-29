@@ -9,7 +9,6 @@ tags:
   - Blog
 external_link: https://medium.com/swlh/subsets-of-imagenet-aca5342eb275
 image:
-  filename: imagenet.jpeg
   focal_point: Smart
   preview_only: false
 ---
