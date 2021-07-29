@@ -10,5 +10,4 @@ external_link: https://medium.com/geekculture/deep-convolutional-generative-adve
 image:
   filename: fake_mnist.png
   focal_point: Smart
-  preview_only: false
 ---
