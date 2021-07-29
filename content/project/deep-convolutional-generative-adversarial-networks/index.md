@@ -8,6 +8,5 @@ tags: [Blog]
 authors: [Roland Gao]
 external_link: https://medium.com/geekculture/deep-convolutional-generative-adversarial-networks-a6a0b0da3253
 image:
-  filename: fake_mnist.png
   focal_point: Smart
 ---
