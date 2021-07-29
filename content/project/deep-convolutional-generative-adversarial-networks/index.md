@@ -1,6 +1,8 @@
 ---
 title: Deep Convolutional Generative Adversarial Networks
 subtitle: ""
+tags:
+- Blog
 date: 2021-07-29T18:21:13.474Z
 draft: false
 featured: false
